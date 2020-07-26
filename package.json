@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.10.4",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-flow": "^7.10.4",
+    "@babel/register": "^7.10.5",
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
+    "handy-redis": "^1.8.3",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "parse-cache-control": "^1.0.1",
+    "playwright": "^1.2.1",
+    "redis": "^3.0.2",
+    "tough-cookie": "^4.0.0"
+  }
+}
